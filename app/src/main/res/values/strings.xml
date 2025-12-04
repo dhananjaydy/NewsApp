@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+    <string name="article_detail">Article Details</string>
+    <string name="top">Top</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="business">Business</string>
+    <string name="read_article">Read Article</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="error_loading_more">Error loading more</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="no_title">No Title</string>
+    <string name="no_description">No Description</string>
+    <string name="retry">Retry</string>
+    <string name="delete">Delete</string>
+    <string name="type_to_search_for_news">Type to search for news…</string>
+    <string name="search_news">Search news…</string>
+    <string name="saved_articles">Saved Articles</string>
+    <string name="no_articles_found_for">No articles found for %1$s</string>
+    <string name="no_headlines_found_right_now">No Headlines found for given category.</string>
+    <string name="no_saved_articles_yet">No saved articles yet.</string>
+    <string name="article_content_not_available">Article content not available.</string>
+    <string name="back">Back</string>
+    <string name="article">Article</string>
+    <string name="sorry_article_link_is_not_available">Sorry, article link is not available.</string>
+    <string name="save_article">Save Article</string>
+
+</resources>
